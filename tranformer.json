@@ -2,26 +2,44 @@
 
 {
     "name": "Trial 1 ",
-    "url": "https://i.imgur.com/mJSE9PL.jpg",
+    "url": "https://i.imgur.com/eKqdVw1.png",
     "collections": "Trial",
-    "thumbnail": "https://i.imgur.com/mJSE9PL.jpg"
+    "thumbnail": "https://i.imgur.com/eKqdVw1.png"
   },
   {
     "name": "Trial 2 ",
-    "url": "https://i.imgur.com/uoPT4xz.jpg",
+    "url": "https://i.imgur.com/1X94b6p.png",
     "collections": "Trial",
-    "thumbnail": "https://i.imgur.com/uoPT4xz.jpg"
+    "thumbnail": "https://i.imgur.com/1X94b6p.png"
   },
   {
     "name": "Trial 3 ",
-    "url": "https://i.imgur.com/itWlxaA.jpg",
+    "url": "https://i.imgur.com/0sfxlYg.png",
     "collections": "Trial",
-    "thumbnail": "https://i.imgur.com/itWlxaA.jpg"
+    "thumbnail": "https://i.imgur.com/0sfxlYg.png"
   },
   {
     "name": "Trial 4 ",
-    "url": "https://i.imgur.com/EHfqoUi.jpg",
+    "url": "https://i.imgur.com/KOqOEBI.png",
     "collections": "Trial",
-    "thumbnail": "https://i.imgur.com/EHfqoUi.jpg"
+    "thumbnail": "https://i.imgur.com/KOqOEBI.png"
+  },
+{
+    "name": "Trial 5 ",
+    "url": "https://i.imgur.com/0V2HnOJ.png",
+    "collections": "Trial",
+    "thumbnail": "https://i.imgur.com/0V2HnOJ.png"
+  },
+  {
+    "name": "Trial 6 ",
+    "url": "https://i.imgur.com/NqKGyJZ.png",
+    "collections": "Trial",
+    "thumbnail": "https://i.imgur.com/NqKGyJZ.png"
+  },
+  {
+    "name": "Trial 7 ",
+    "url": "https://i.imgur.com/haFNaaf.png",
+    "collections": "Trial",
+    "thumbnail": "https://i.imgur.com/haFNaaf.png"
   }
 ]
