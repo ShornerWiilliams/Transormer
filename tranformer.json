@@ -1,45 +1,52 @@
 [
-
-{
-    "name": "Trial 1 ",
-    "url": "https://i.imgur.com/MWSRWYn.png",
-    "collections": "Trial",
-    "thumbnail": "https://i.imgur.com/MWSRWYn.png"
-  },
   {
-    "name": "Trial 2 ",
-    "url": "https://i.imgur.com/9bNQlxN.jpg",
-    "collections": "Trial",
-    "thumbnail": "https://i.imgur.com/9bNQlxN.jpg"
-  },
-  {
-    "name": "Trial 3 ",
-    "url": "https://i.imgur.com/a9krlE3.png",
-    "collections": "Trial",
-    "thumbnail": "https://i.imgur.com/ZL0GI4c.jpg"
-  },
-  {
-    "name": "Trial 4 ",
-    "url": "https://i.imgur.com/MobZhSu.jpg",
-    "collections": "Trial",
-    "thumbnail": "https://i.imgur.com/xmRLjhk.jpg"
-  },
-{
-    "name": "Trial 5 ",
+    "name": "M1",
+    "id": 122942,
     "url": "https://i.imgur.com/TGlsEMn.jpg",
-    "collections": "Trial",
-    "thumbnail": "https://i.imgur.com/SDmccv7.jpg"
+    "author": "asdlordesigns",
+    "thumbnail": "https://i.imgur.com/SDmccv7.jpg",
+    "collections": "Minimal",
+    "dimensions": "3000x6000‬",
+    "copyright": "Personal Use Only, Credits Required"
   },
   {
-    "name": "Trial 6 ",
-    "url": "https://i.imgur.com/NqKGyJZ.png",
-    "collections": "Trial",
-    "thumbnail": "https://i.imgur.com/NqKGyJZ.png"
+    "name": "M2",
+    "id": 152542,
+    "url": "https://i.imgur.com/a9krlE3.png",
+    "author": "asdlordesigns",
+    "thumbnail": "https://i.imgur.com/ZL0GI4c.jpg",
+    "collections": "Minimal",
+    "dimensions": "3000x6000‬",
+    "copyright": "Personal Use Only, Credits Required"
   },
   {
-    "name": "Trial 7 ",
-    "url": "https://i.imgur.com/haFNaaf.png",
-    "collections": "Trial",
-    "thumbnail": "https://i.imgur.com/haFNaaf.png"
+    "name": "M3",
+    "id": 193442,
+    "url": "https://i.imgur.com/LQfQvu3.png",
+    "author": "asdlordesigns",
+    "thumbnail": "https://i.imgur.com/EDkuEV2.jpg",
+    "collections": "Minimal",
+    "dimensions": "3000x6000‬",
+    "copyright": "Personal Use Only, Credits Required"
+  },
+  {
+    "name": "Cherry",
+    "id": 459258,
+    "url": "https://i.imgur.com/UAhqi9g.png",
+    "author": "asdlordesigns",
+    "thumbnail": "https://i.imgur.com/LrokZuO.jpg",
+    "collections": "Images",
+    "dimensions": "2000x4000‬",
+    "copyright": "Personal Use Only, Credits Required"
+  },
+  {
+    "name": "Golden Gate",
+    "id": 834582,
+    "url": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/photo5.jpg",
+    "author": "Akshay Maurya",
+    "thumbnail": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/thumb5.jpg",
+    "collections": "Images",
+    "dimensions": "2000x4000‬",
+    "copyright": "Personal Use Only, Credits Required"
   }
 ]
